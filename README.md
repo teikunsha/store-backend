@@ -28,12 +28,12 @@
 
 > 部署於 [fly.io](https://fly.io/) 平台
 
-若伺服器沒有收到請求，幾分鐘後將會停止運作，開啟網站時需等待伺服器重新運作
-
-## 4. API
+## 4. API測試
 
 >商品一覽
 
 #### [https://store-backend.fly.dev/products/list](https://store-backend.fly.dev/products/list)
+
+若伺服器沒有收到請求，幾分鐘後將會停止運作，開啟網站時需等待伺服器重新運作
 
 
